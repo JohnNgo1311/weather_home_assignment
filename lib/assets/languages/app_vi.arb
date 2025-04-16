@@ -1,0 +1,9 @@
+{  
+    "errorAtTheEnd": "Đã có sự cố xảy ra ở phút chót",
+    "back":"Trở lại",
+    "wifiDisconnect":"Vui lòng kiểm tra kết nối Wifi!",
+"endOfList":"Không còn thông báo",
+"noData":"Chưa có thông tin",
+"notUpdate":"Chưa cập nhật",
+"saveResultSuccess":"Lưu kết quả thành công",
+}
